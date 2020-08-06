@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 
 #### I'm Garima Bothra and here's a little about me:
 
-* 🌱 I’m currently learning SwiftUI and Blockchain using Javascript
+* 👩‍💻 I'm currently working on iOS and macOS development with Swift and SwiftUI
+* 🌱 I’m trying to learn Blockchain using Javascript
 * 👯 I’m looking to collaborate on iOS App Development Projects
 * 🤔 I’m looking for help with Javascript
 * 💬 Ask me about Swift or SwiftUI
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/garima-bothra/) or [Twitter](https://twitter.com/GarimaBothra3)
+* 📫 Hit me up: [LinkedIn](https://www.linkedin.com/in/garima-bothra/) or [Twitter](https://twitter.com/GarimaBothra3)
