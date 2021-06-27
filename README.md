@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 * 👯 I’m looking to collaborate on ***iOS*** App Development Projects
 * 🤔 I’m looking for help with Javascript
 * 💬 Ask me about Swift or SwiftUI
-* 📫 Hit me up: [*LinkedIn*](https://www.linkedin.com/in/garima-bothra/) or [*Twitter*](https://twitter.com/GarimaBothra3)
+* 📫 Hit me up: [*LinkedIn*](https://www.linkedin.com/in/garima-bothra/) or [*Twitter*](https://twitter.com/garima_twt)
